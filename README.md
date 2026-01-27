@@ -42,14 +42,6 @@ Ensure that you have Python 3.8 or higher installed on your machine. You'll also
 - `ta` (Technical Analysis library)
 
 ### Steps to Install
-
-1. **Clone the Repository**
-
-   First, clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/peterajhgraham/Real_Time_Stock_Price_Dashboard.git
-   cd Real_Time_Stock_Price_Dashboard
-
 3. **Install the Required Packages**
 
    Install the required Python packages using pip:
