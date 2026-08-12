@@ -6,7 +6,7 @@ This was originally made for my grandmother who loves investing and my dad and m
 
 This project is a real-time full-stack stock price dashboard built using Python, Streamlit, Plotly, and various financial data analysis tools. The dashboard allows users to visualize stock prices, apply technical indicators such as SMA 20, EMA20, and RSI14, and monitor real-time prices of selected stocks.
 
-*Enjoy a stock price dashboard that you can run right in your terminal!*
+*Enjoy a stock price dashboard that you can run right in your terminal! I hope so we all can earn money to provide for our family and ourselves*
 
 https://github.com/user-attachments/assets/73e8ccaa-fba7-4288-9af2-376f0964c727
 
