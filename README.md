@@ -1,6 +1,6 @@
 # Stock-market-dashboard cause money is survival
  Real-Time Stock Market Dashboard  Description: Build a dashboard that tracks and visualizes live stock market data.  Technologies: Python (Pandas, Plotly, Requests API), Streamlit  Outcome: Real-time graphs and financial indicators for selected stocks.
-# Real Time Stock Price Dashboard
+# Real Time Stock Price Dashboard 
 
 This was originally made for my grandmother who loves investing and my dad and mom keeps venting to me about my swiggy zomato orders :)
 
