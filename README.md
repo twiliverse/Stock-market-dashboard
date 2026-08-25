@@ -10,7 +10,7 @@ This project is a real-time full-stack stock price dashboard built using Python,
 
 https://github.com/user-attachments/assets/73e8ccaa-fba7-4288-9af2-376f0964c727
 
-## Directory Structure
+## Directory Structures
 
 ```
 Real_Time_Stock_Price_Dashboard/
